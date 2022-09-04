@@ -2,7 +2,7 @@
 import { h } from "https://esm.sh/preact";
 import blog, { ga } from "https://deno.land/x/blog/blog.tsx";
 
-import Footer from "./components/Footer.jsx";
+import Footer from "./components/Footer.tsx";
 
 blog({
   author: "Musa Barighzaai",
