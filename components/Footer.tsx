@@ -1,5 +1,6 @@
 /** @jsx h */
-import { h } from "https://esm.sh/preact";
+
+import { h } from "https://deno.land/x/blog/blog.tsx";
 
 export default function Footer() {
   return (
