@@ -1,8 +1,8 @@
 /** @jsx h */
+import { h } from "https://esm.sh/preact";
+import blog, { ga } from "https://deno.land/x/blog/blog.tsx";
 
-import blog, { h } from "https://deno.land/x/blog@0.5.0/blog.tsx";
-import "https://esm.sh/prismjs@1.27.0/components/prism-go";
-import Footer from "./components/Footer.tsx";
+import Footer from "./components/Footer.jsx";
 
 blog({
   author: "Musa Barighzaai",

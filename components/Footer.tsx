@@ -1,23 +1,11 @@
 /** @jsx h */
-
-import { h } from "https://esm.sh/preact@10.10.6";
+import { h } from "https://esm.sh/preact";
 
 export default function Footer() {
   return (
     <footer class="mt-20 pb-16 lt-sm:pb-8 lt-sm:mt-16">
-      <p class="flex justify-between items-center gap-2.5 text-gray-400/800 dark:text-gray-500/800 text-sm">
-        <span>
-          © 2022 - Made with ❤ by Musa Barighzaai
-          <br />
-          The source code for this site is available on{" "}
-          <a
-            class="inline-flex items-center gap-1 underline hover:text-gray-800 dark:hover:text-gray-200 transition-colors"
-            href="https://github.com/musab/blog"
-          >
-            github
-          </a>
-          .
-        </span>
+      <p class="flex items-center gap-2.5 text-gray-400/800 dark:text-gray-500/800 text-sm">
+        <span>© 2022 - Made with ❤ by Musa Barighzaai</span>·
         <a
           href="/feed"
           class="inline-flex items-center gap-1 hover:text-gray-800 dark:hover:text-gray-200 transition-colors"
