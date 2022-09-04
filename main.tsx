@@ -1,8 +1,8 @@
 /** @jsx h */
 
-import blog, { h } from "https://deno.land/x/blog/blog.tsx";
+import blog, { h } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 import "https://esm.sh/prismjs@1.27.0/components/prism-go";
-import { Footer } from "./components/footer.tsx";
+import Footer from "./components/Footer.tsx";
 
 blog({
   author: "Musa Barighzaai",
@@ -17,7 +17,6 @@ blog({
     { title: "Twitter", url: "https://twitter.com/barighzaai" },
   ],
   lang: "en",
-  dateStyle: "medium", // localised format based on https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat
   favicon: "/assets/favicon.png",
   theme: "dark",
   footer: <Footer />,

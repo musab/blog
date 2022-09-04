@@ -1,8 +1,8 @@
 /** @jsx h */
 
-import { h } from "https://deno.land/x/blog/blog.tsx";
+import { h } from "https://esm.sh/preact@10.10.6";
 
-export const Footer = () => {
+export default function Footer() {
   return (
     <footer class="mt-20 pb-16 lt-sm:pb-8 lt-sm:mt-16">
       <p class="flex justify-between items-center gap-2.5 text-gray-400/800 dark:text-gray-500/800 text-sm">
@@ -37,4 +37,4 @@ export const Footer = () => {
       </p>
     </footer>
   );
-};
+}
