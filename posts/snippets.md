@@ -94,7 +94,7 @@ A running collection of excerpts I found interesting. I did not write any of the
 
 > It's tough to put this into practice. But, one good bit of advice I see repeated (and strategy I use myself) is - if you have multiple things on your plate that are "urgent" - ask your boss/manager to prioritise them rather than just staying silent and not finishing everything by the deadline.
 
--[u/imnos](https://old.reddit.com/r/cscareerquestions/comments/rv6gpt/going_back_to_work_today_after_vacation_is_making/hr5cm06/)
+- [u/imnos](https://old.reddit.com/r/cscareerquestions/comments/rv6gpt/going_back_to_work_today_after_vacation_is_making/hr5cm06/)
 
 ### On delivering quickly
 
