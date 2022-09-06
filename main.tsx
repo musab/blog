@@ -21,4 +21,5 @@ blog({
   favicon: "/assets/favicon.png",
   theme: "dark",
   footer: <Footer />,
+  dateStyle: "medium",
 });

@@ -1,6 +1,6 @@
 ---
 title: Interesting Snippets
-publish_date: 2022-09-05
+publish_date: 2022-06-05
 ---
 
 A running collection of excerpts I found interesting. I did not write any of the following, and attempt to give attribution where possible.
