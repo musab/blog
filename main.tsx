@@ -1,6 +1,6 @@
 /** @jsx h */
 
-import blog, { h } from "https://deno.land/x/blog@0.4.2/blog.tsx";
+import blog, { h } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 import "https://esm.sh/prismjs@1.27.0/components/prism-go";
 
 import { Footer } from "./components/Footer.tsx";
@@ -19,7 +19,6 @@ blog({
   ],
   lang: "en",
   favicon: "/assets/favicon.png",
-  theme: "dark",
+  theme: "auto",
   footer: <Footer />,
-  dateStyle: "medium",
 });

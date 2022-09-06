@@ -1,6 +1,6 @@
 /** @jsx h */
 
-import { h } from "https://deno.land/x/blog/blog.tsx";
+import { h } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 
 export const Footer = () => {
   return (
