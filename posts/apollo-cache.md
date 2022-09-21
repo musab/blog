@@ -1,6 +1,6 @@
 ---
 title: Manually updating Apollo Client cache on react-query mutation
-publish_date: 2022-04-05
+publish_date: 2022-09-21
 ---
 
 This was a bit of a pain to figure out, so I'm writing it down here for future reference. Here is a simple example of manually updating the Apollo Client cache on a react-query mutation.
