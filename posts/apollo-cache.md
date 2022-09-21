@@ -9,7 +9,7 @@ I want to update the Apollo Client cache so that the "TODO" has the correct `com
 
 We have a component that lists all the "TODOs" and a button to complete the "TODO."
 
-```tsx
+```jsx
 // <Todos /> component
 const Todos = ({}) => {
   // fetch list of TODOs via Apollo Client
@@ -39,7 +39,7 @@ const Todos = ({}) => {
 
 And now here is how the `setCompleted` hook looks like.
 
-```tsx
+```jsx
 // useCompleteTODO.ts
 import { gql, useApolloClient } from "@apollo/client";
 
