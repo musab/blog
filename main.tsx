@@ -12,7 +12,7 @@ blog({
   description:
     "Software Engineer from Toronto, Canada. This site is dedicated to my thoughts, observations, and learnings about engineering, and productivity.",
   avatar: "/assets/avatar.webp",
-  // avatarClass: "rounded-full",
+  avatarClass: "full",
   links: [
     { title: "Email", url: "mailto:musab@icloud.com" },
     { title: "GitHub", url: "https://github.com/musab" },
