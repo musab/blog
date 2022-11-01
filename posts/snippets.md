@@ -5,6 +5,12 @@ publish_date: 2022-06-05
 
 A running collection of excerpts I found interesting. I did not write any of the following, and attempt to give attribution where possible.
 
+### On effective communication
+
+> In general, effective communication isn't about intent but about result. If you're not getting the result you're looking for then change up your communication until you do, regardless of intention.
+
+- [u/nwss00](https://old.reddit.com/r/ExperiencedDevs/comments/yibcht/mentoring_an_entitled_and_disrespectful_colleague/iuhtibl/)
+
 ### On sunk cost
 
 > If you need a machine and don't buy it, then you will ultimately find that you have paid for it and don't have it
