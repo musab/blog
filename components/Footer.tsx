@@ -23,6 +23,7 @@ export const Footer = () => {
           </svg>{" "}
           RSS
         </a>
+        <a rel="me" href="https://fosstodon.org/@musab">Mastodon</a>
       </p>
     </footer>
   );
