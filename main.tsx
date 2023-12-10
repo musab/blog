@@ -11,7 +11,7 @@ blog({
   title: "Musa Barighzaai",
   description:
     "Software Engineer from Toronto, Canada now living in Tokyo, Japan. This site is dedicated to my thoughts, observations, and learnings about engineering, and productivity.",
-  avatar: "/assets/avatar.webp",
+  avatar: "/assets/avatar.png",
   avatarClass: "full",
   links: [
     { title: "Email", url: "mailto:musab@icloud.com" },
