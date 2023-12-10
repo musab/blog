@@ -16,7 +16,7 @@ blog({
   links: [
     { title: "Email", url: "mailto:musab@icloud.com" },
     { title: "GitHub", url: "https://github.com/musab" },
-    { title: "Twitter", url: "https://twitter.com/barighzaai" },
+    { title: "X", url: "https://twitter.com/barighzaai" },
   ],
   lang: "en",
   favicon: "/assets/favicon.png",
