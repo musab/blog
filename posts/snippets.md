@@ -5,6 +5,12 @@ publish_date: 2022-06-05
 
 A running collection of excerpts I found interesting. I did not write any of the following, and attempt to give attribution where possible.
 
+### On delivering minimal effective dose
+
+> I like the term 'minimal effective dose' (MED). The smallest dose that will produce the desired outcome. In QA this can be a manual testing plan, automated tests in the pipeline or something different. It's the right place to start.
+
+- [Florian Bellmann](https://www.florianbellmann.com/blog/never-taught-qa)
+
 ### On effective communication
 
 > In general, effective communication isn't about intent but about result. If you're not getting the result you're looking for then change up your communication until you do, regardless of intention.
